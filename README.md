@@ -15,13 +15,15 @@
 
 ## 🧑‍💻 About Me
 
-![coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```javascript
 const ashandth = {
   name:        "Ashandth Uthayashankar",
-  location:    "Colombo, Sri Lanka 🇱🇰",
-  degree:      "BSc (Hons) IT — Software Engineering @ SLIIT",
+  location:    "Colombo, Sri Lanka",
+  degree:      "BSc (Hons) IT - Software Engineering @ SLIIT",
   cgpa:        2.71,
 
   stack: [
@@ -31,17 +33,26 @@ const ashandth = {
   ],
 
   currentlyLearning: [
-    "Advanced AI & Machine Learning",
+    "Advanced AI and Machine Learning",
     "Human-Robot Interaction",
-    "Platform Engineering & DevOps",
+    "Platform Engineering and DevOps",
     "Cloud Architecture (Azure)"
   ],
 
-  funFact: "I teach AI & Python to 100+ students across Sri Lanka 🧑‍🏫",
+  funFact: "I teach AI and Python to 100+ students across Sri Lanka",
 
   motto: () => "Build things that matter. Ship code that lasts."
 };
 ```
+
+</td>
+<td valign="middle" width="40%" align="center">
+
+![coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+</td>
+</tr>
+</table>
 
 
 ---
