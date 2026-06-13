@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+![coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ```javascript
 const ashandth = {
@@ -43,7 +43,6 @@ const ashandth = {
 };
 ```
 
-<br clear="right"/>
 
 ---
 
@@ -171,7 +170,7 @@ const ashandth = {
 </details>
 
 <details>
-<summary><b>🧑‍🏫 Lead Instructor — AI & Programming · IgniterSpace (Pvt) Ltd — Sri Lanka · Jun 2024 – Present</b></summary>
+<summary><b>🧑‍🏫 Lead Instructor — AI &amp; Programming · IgniterSpace (Pvt) Ltd — Sri Lanka · Jun 2024 – Present</b></summary>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI_Fundamentals-BF91F3?style=flat-square) ![STEAM](https://img.shields.io/badge/STEAM_Curriculum-38BDAE?style=flat-square)
 
