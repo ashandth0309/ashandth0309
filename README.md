@@ -1,24 +1,13 @@
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=28\&duration=3000\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=750\&lines=Full-Stack+Developer+%7C+React+and+Next.js;AI+and+Robotics+Researcher;Building+Scalable+Web+Applications;Platform+Engineering+Enthusiast)](https://github.com/ashandth0309)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+React+and+Next.js;AI+and+Robotics+Researcher;Building+Scalable+Web+Applications;Platform+Engineering+Enthusiast" />
+![Profile Views](https://komarev.com/ghpvc/?username=ashandth0309\&color=70a5fd\&style=flat-square\&label=Profile+Views)
 
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ashandth-uthayashankar-8b174224b)
 
-<img src="https://komarev.com/ghpvc/?username=ashandth0309&color=70a5fd&style=flat-square&label=Profile+Views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square\&logo=vercel\&logoColor=white)](https://final-portfolio-lac-tau.vercel.app/)
 
-<a href="https://linkedin.com/in/ashandth-uthayashankar-8b174224b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ashandth0309@gmail.com)
 
-<a href="https://final-portfolio-lac-tau.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:ashandth0309@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
