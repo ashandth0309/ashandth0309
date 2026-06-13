@@ -16,7 +16,9 @@
 ## 🧑‍💻 About Me
 
 ![coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-
+<table>
+<tr>
+<td width="60%" valign="top">
 ```javascript
 const ashandth = {
   name:        "Ashandth Uthayashankar",
