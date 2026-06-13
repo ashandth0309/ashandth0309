@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Ashandth%20Uthayashankar&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI%20and%20Robotics%20Researcher&amp;descAlignY=62&amp;descSize=16"amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI%20and%20Robotics%20Researcher&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Ashandth%20Uthayashankar&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI%20%26%20Robotics%20Researcher&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -106,7 +106,7 @@ const ashandth = {
 <div align="center">
 
 <a href="https://github.com/ashandth0309">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashandth0309&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10&amp;rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashandth0309&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10&amp;rank_icon=github"/>
 </a>
 <a href="https://github.com/ashandth0309">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashandth0309&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
