@@ -1,4 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Ashandth%20Uthayashankar&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI%20%26%20Robotics%20Researcher&amp;descAlignY=62&amp;descSize=16" width="100%"/> <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+React+%26+Next.js;AI+%26+Robotics+Researcher+%F0%9F%A4%96;Building+Scalable+Web+Applications;Platform+Engineering+Enthusiast+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+React+%26+Next.js;AI+%26+Robotics+Researcher+%F0%9F%A4%96;Building+Scalable+Web+Applications;Platform+Engineering+Enthusiast+%F0%9F%9A%80) ![Profile Views](https://komarev.com/ghpvc/?username=ashandth0309&color=70a5fd&style=flat-square&label=Profile+Views) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashandth-uthayashankar-8b174224b) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://final-portfolio-lac-tau.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashandth0309@gmail.com) </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Ashandth%20Uthayashankar&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI%20%26%20Robotics%20Researcher&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+React+%26+Next.js;AI+%26+Robotics+Researcher+%F0%9F%A4%96;Building+Scalable+Web+Applications;Platform+Engineering+Enthusiast+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+React+%26+Next.js;AI+%26+Robotics+Researcher+%F0%9F%A4%96;Building+Scalable+Web+Applications;Platform+Engineering+Enthusiast+%F0%9F%9A%80)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashandth0309&color=70a5fd&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashandth-uthayashankar-8b174224b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://final-portfolio-lac-tau.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashandth0309@gmail.com)
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
