@@ -15,16 +15,14 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="400"/>
-</div>
+![coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ```javascript
 const ashandth = {
-  name:              "Ashandth Uthayashankar",
-  location:          "Colombo, Sri Lanka 🇱🇰",
-  degree:            "BSc (Hons) IT — Software Engineering @ SLIIT",
-  cgpa:              2.71,
+  name:        "Ashandth Uthayashankar",
+  location:    "Colombo, Sri Lanka 🇱🇰",
+  degree:      "BSc (Hons) IT — Software Engineering @ SLIIT",
+  cgpa:        2.71,
 
   stack: [
     "React.js", "Next.js", "Node.js",
@@ -39,9 +37,13 @@ const ashandth = {
     "Cloud Architecture (Azure)"
   ],
 
-  funFact:           "I teach AI & Python to 100+ students across Sri Lanka 🧑‍🏫",
-  motto:             () => "Build things that matter. Ship code that lasts."
+  funFact: "I teach AI & Python to 100+ students across Sri Lanka 🧑‍🏫",
+
+  motto: () => "Build things that matter. Ship code that lasts."
 };
+```
+
+
 ---
 
 ## 🛠️ Tech Stack
