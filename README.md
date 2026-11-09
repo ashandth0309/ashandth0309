@@ -1,7 +1,7 @@
 <!-- GitHub Profile README | Ashandth Uthayashankar -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070B19,45:123A5C,100:06B6D4&text=ASHANDTH%20UTHAYASHANKAR&fontColor=FFFFFF&fontSize=36&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20REACT%20%26%20TYPESCRIPT%20%7C%20API%20INTEGRATION&descSize=14&descAlignY=57&animation=fadeIn" alt="Ashandth Uthayashankar — Software Engineering" />
+<img width="100%" src="./assets/github-header.svg" alt="Ashandth Uthayashankar — Software Engineering, React, TypeScript and API Integration" />
 
 ### Build. Teach. Create.
 
